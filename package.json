@@ -1,0 +1,22 @@
+{
+  "name": "jonkly",
+  "version": "0.0.1",
+  "description": "Cookbook about design of modern web frameworks",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanomen/jonkly.git"
+  },
+  "author": "nanomen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanomen/jonkly/issues"
+  },
+  "homepage": "https://github.com/nanomen/jonkly#readme",
+  "dependencies": {
+    "webpack": "^4.20.2"
+  }
+}
